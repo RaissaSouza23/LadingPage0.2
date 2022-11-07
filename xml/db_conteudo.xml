@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conteudo>
+    <postagem codigo="1">
+        <titulo>A descoberta sobre 'matéria escura' que pode mudar o tratamento do câncer</titulo>
+        <corpo>Muitas vezes chamada de "matéria escura", essa área do conhecimento genômico pode alterar a maneira como os tumores são detectados e tratados, aponta um novo artigo do Instituto de Pesquisa do Câncer, no Reino Unido.</corpo>
+        <imagem_1>foto1.jpg</imagem_1>
+    </postagem>
+    <postagem codigo="2">
+        <titulo>Vacina contra monkeypox chega neste mês ao Brasil: quem deve ser imunizado</titulo>
+        <corpo>O Ministério da Saúde anunciou que as primeiras doses da vacina que protege contra a monkeypox, doença conhecida como varíola dos macacos, devem chegar ao Brasil ainda em setembro.</corpo>
+        <imagem_1>foto2.jpg</imagem_1>
+    </postagem>
+    <postagem codigo="3">
+        <titulo>Anticoncepcional masculino: tabu e dúvidas sobre eficácia e reversão emperram avanço</titulo>
+        <corpo>As tentativas começaram nos anos 1960, na mesma época em que o anticoncepcional feminino foi lançado, mas, até hoje nenhum contraceptivo reversível para os homens chegou à mesma eficácia da pílula para as mulheres. A mais alardeada entre as apostas é o Risug, um anticoncepcional masculino injetável desenvolvido na Índia e com previsão de lançamento para 2023. Mesmo assim, a lista de obstáculos neste e outros métodos contraceptivos para eles é longa: vai de dúvidas sobre eficiência e reversão ao tabu em uma sociedade que tradicionalmente delega às mulheres a responsabilidade da prevenção da gravidez.</corpo>
+        <imagem_1>foto3.jpg</imagem_1>
+    </postagem>
+</conteudo>
